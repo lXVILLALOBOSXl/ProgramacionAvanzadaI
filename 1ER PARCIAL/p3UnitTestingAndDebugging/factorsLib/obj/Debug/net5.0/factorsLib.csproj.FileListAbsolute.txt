@@ -1,0 +1,12 @@
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p3UnitTestingAndDebugging\factorsLib\obj\Debug\net5.0\factorsLib.csprojAssemblyReference.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p3UnitTestingAndDebugging\factorsLib\obj\Debug\net5.0\factorsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p3UnitTestingAndDebugging\factorsLib\obj\Debug\net5.0\factorsLib.AssemblyInfoInputs.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p3UnitTestingAndDebugging\factorsLib\obj\Debug\net5.0\factorsLib.AssemblyInfo.cs
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p3UnitTestingAndDebugging\factorsLib\obj\Debug\net5.0\factorsLib.csproj.CoreCompileInputs.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p3UnitTestingAndDebugging\factorsLib\bin\Debug\net5.0\factorsLib.deps.json
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p3UnitTestingAndDebugging\factorsLib\bin\Debug\net5.0\factorsLib.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p3UnitTestingAndDebugging\factorsLib\bin\Debug\net5.0\ref\factorsLib.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p3UnitTestingAndDebugging\factorsLib\bin\Debug\net5.0\factorsLib.pdb
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p3UnitTestingAndDebugging\factorsLib\obj\Debug\net5.0\factorsLib.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p3UnitTestingAndDebugging\factorsLib\obj\Debug\net5.0\ref\factorsLib.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p3UnitTestingAndDebugging\factorsLib\obj\Debug\net5.0\factorsLib.pdb

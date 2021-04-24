@@ -1,0 +1,12 @@
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaIpv4EIpv6Generic\GeneralLibrary\obj\Debug\net5.0\GeneralLibrary.csprojAssemblyReference.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaIpv4EIpv6Generic\GeneralLibrary\obj\Debug\net5.0\GeneralLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaIpv4EIpv6Generic\GeneralLibrary\obj\Debug\net5.0\GeneralLibrary.AssemblyInfoInputs.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaIpv4EIpv6Generic\GeneralLibrary\obj\Debug\net5.0\GeneralLibrary.AssemblyInfo.cs
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaIpv4EIpv6Generic\GeneralLibrary\obj\Debug\net5.0\GeneralLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaIpv4EIpv6Generic\GeneralLibrary\bin\Debug\net5.0\GeneralLibrary.deps.json
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaIpv4EIpv6Generic\GeneralLibrary\bin\Debug\net5.0\GeneralLibrary.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaIpv4EIpv6Generic\GeneralLibrary\bin\Debug\net5.0\ref\GeneralLibrary.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaIpv4EIpv6Generic\GeneralLibrary\bin\Debug\net5.0\GeneralLibrary.pdb
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaIpv4EIpv6Generic\GeneralLibrary\obj\Debug\net5.0\GeneralLibrary.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaIpv4EIpv6Generic\GeneralLibrary\obj\Debug\net5.0\ref\GeneralLibrary.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaIpv4EIpv6Generic\GeneralLibrary\obj\Debug\net5.0\GeneralLibrary.pdb

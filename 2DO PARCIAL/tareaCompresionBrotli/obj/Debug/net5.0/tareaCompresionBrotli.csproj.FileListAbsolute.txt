@@ -1,0 +1,16 @@
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaCompresionBrotli\obj\Debug\net5.0\tareaCompresionBrotli.csprojAssemblyReference.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaCompresionBrotli\obj\Debug\net5.0\tareaCompresionBrotli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaCompresionBrotli\obj\Debug\net5.0\tareaCompresionBrotli.AssemblyInfoInputs.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaCompresionBrotli\obj\Debug\net5.0\tareaCompresionBrotli.AssemblyInfo.cs
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaCompresionBrotli\obj\Debug\net5.0\tareaCompresionBrotli.csproj.CoreCompileInputs.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaCompresionBrotli\bin\Debug\net5.0\tareaCompresionBrotli.exe
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaCompresionBrotli\bin\Debug\net5.0\tareaCompresionBrotli.deps.json
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaCompresionBrotli\bin\Debug\net5.0\tareaCompresionBrotli.runtimeconfig.json
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaCompresionBrotli\bin\Debug\net5.0\tareaCompresionBrotli.runtimeconfig.dev.json
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaCompresionBrotli\bin\Debug\net5.0\tareaCompresionBrotli.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaCompresionBrotli\bin\Debug\net5.0\ref\tareaCompresionBrotli.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaCompresionBrotli\bin\Debug\net5.0\tareaCompresionBrotli.pdb
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaCompresionBrotli\obj\Debug\net5.0\tareaCompresionBrotli.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaCompresionBrotli\obj\Debug\net5.0\ref\tareaCompresionBrotli.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaCompresionBrotli\obj\Debug\net5.0\tareaCompresionBrotli.pdb
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaCompresionBrotli\obj\Debug\net5.0\tareaCompresionBrotli.genruntimeconfig.cache

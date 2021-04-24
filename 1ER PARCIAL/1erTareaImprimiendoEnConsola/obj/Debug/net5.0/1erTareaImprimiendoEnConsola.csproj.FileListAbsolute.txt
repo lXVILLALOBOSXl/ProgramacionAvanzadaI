@@ -1,0 +1,16 @@
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\1erTareaImprimiendoEnConsola\obj\Debug\net5.0\1erTareaImprimiendoEnConsola.csprojAssemblyReference.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\1erTareaImprimiendoEnConsola\obj\Debug\net5.0\1erTareaImprimiendoEnConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\1erTareaImprimiendoEnConsola\obj\Debug\net5.0\1erTareaImprimiendoEnConsola.AssemblyInfoInputs.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\1erTareaImprimiendoEnConsola\obj\Debug\net5.0\1erTareaImprimiendoEnConsola.AssemblyInfo.cs
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\1erTareaImprimiendoEnConsola\obj\Debug\net5.0\1erTareaImprimiendoEnConsola.csproj.CoreCompileInputs.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\1erTareaImprimiendoEnConsola\bin\Debug\net5.0\1erTareaImprimiendoEnConsola.exe
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\1erTareaImprimiendoEnConsola\bin\Debug\net5.0\1erTareaImprimiendoEnConsola.deps.json
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\1erTareaImprimiendoEnConsola\bin\Debug\net5.0\1erTareaImprimiendoEnConsola.runtimeconfig.json
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\1erTareaImprimiendoEnConsola\bin\Debug\net5.0\1erTareaImprimiendoEnConsola.runtimeconfig.dev.json
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\1erTareaImprimiendoEnConsola\bin\Debug\net5.0\1erTareaImprimiendoEnConsola.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\1erTareaImprimiendoEnConsola\bin\Debug\net5.0\ref\1erTareaImprimiendoEnConsola.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\1erTareaImprimiendoEnConsola\bin\Debug\net5.0\1erTareaImprimiendoEnConsola.pdb
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\1erTareaImprimiendoEnConsola\obj\Debug\net5.0\1erTareaImprimiendoEnConsola.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\1erTareaImprimiendoEnConsola\obj\Debug\net5.0\ref\1erTareaImprimiendoEnConsola.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\1erTareaImprimiendoEnConsola\obj\Debug\net5.0\1erTareaImprimiendoEnConsola.pdb
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\1erTareaImprimiendoEnConsola\obj\Debug\net5.0\1erTareaImprimiendoEnConsola.genruntimeconfig.cache

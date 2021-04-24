@@ -1,0 +1,16 @@
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p2Excepciones18100586\obj\Debug\net5.0\p2Excepciones18100586.csprojAssemblyReference.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p2Excepciones18100586\obj\Debug\net5.0\p2Excepciones18100586.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p2Excepciones18100586\obj\Debug\net5.0\p2Excepciones18100586.AssemblyInfoInputs.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p2Excepciones18100586\obj\Debug\net5.0\p2Excepciones18100586.AssemblyInfo.cs
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p2Excepciones18100586\obj\Debug\net5.0\p2Excepciones18100586.csproj.CoreCompileInputs.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p2Excepciones18100586\bin\Debug\net5.0\p2Excepciones18100586.exe
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p2Excepciones18100586\bin\Debug\net5.0\p2Excepciones18100586.deps.json
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p2Excepciones18100586\bin\Debug\net5.0\p2Excepciones18100586.runtimeconfig.json
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p2Excepciones18100586\bin\Debug\net5.0\p2Excepciones18100586.runtimeconfig.dev.json
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p2Excepciones18100586\bin\Debug\net5.0\p2Excepciones18100586.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p2Excepciones18100586\bin\Debug\net5.0\ref\p2Excepciones18100586.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p2Excepciones18100586\bin\Debug\net5.0\p2Excepciones18100586.pdb
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p2Excepciones18100586\obj\Debug\net5.0\p2Excepciones18100586.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p2Excepciones18100586\obj\Debug\net5.0\ref\p2Excepciones18100586.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p2Excepciones18100586\obj\Debug\net5.0\p2Excepciones18100586.pdb
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\p2Excepciones18100586\obj\Debug\net5.0\p2Excepciones18100586.genruntimeconfig.cache

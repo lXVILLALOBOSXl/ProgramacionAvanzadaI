@@ -1,0 +1,9 @@
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\ejericioPooExamen\GeneralLibrary\bin\Debug\netstandard2.0\GeneralLibrary.deps.json
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\ejericioPooExamen\GeneralLibrary\bin\Debug\netstandard2.0\GeneralLibrary.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\ejericioPooExamen\GeneralLibrary\bin\Debug\netstandard2.0\GeneralLibrary.pdb
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\ejericioPooExamen\GeneralLibrary\obj\Debug\netstandard2.0\GeneralLibrary.csprojAssemblyReference.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\ejericioPooExamen\GeneralLibrary\obj\Debug\netstandard2.0\GeneralLibrary.AssemblyInfoInputs.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\ejericioPooExamen\GeneralLibrary\obj\Debug\netstandard2.0\GeneralLibrary.AssemblyInfo.cs
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\ejericioPooExamen\GeneralLibrary\obj\Debug\netstandard2.0\GeneralLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\ejericioPooExamen\GeneralLibrary\obj\Debug\netstandard2.0\GeneralLibrary.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\1ER PARCIAL\ejericioPooExamen\GeneralLibrary\obj\Debug\netstandard2.0\GeneralLibrary.pdb

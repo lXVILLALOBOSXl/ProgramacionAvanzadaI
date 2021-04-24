@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "examen1erparcial18100586/1.0.0": {
+        "runtime": {
+          "examen1erparcial18100586.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "examen1erparcial18100586/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
