@@ -5,7 +5,7 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include = "C:\Users\Luis Villalobos\Desktop\7MO semestre\PROGRAMACIÓN AVANZADA I\2DO PARCIAL\tareaIpv4EIpv6Generic\GeneralLibrary\GeneralLibrary.csproj"/>
+    <ProjectReference Include = "/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/tareaIpv4EIpv6Generic/DirectionsApp/GeneralLibrary.csproj"/>
   </ItemGroup>
 
 </Project>
