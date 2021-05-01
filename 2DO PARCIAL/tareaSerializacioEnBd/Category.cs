@@ -4,15 +4,20 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
 using System.Xml.Serialization;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 
 namespace tareaSerializacioEnBd
 {
+    
     [Index(nameof(CategoryName), Name = "CategoryName")]
+    [Serializable]
     public class Category
     {
         public Category()
         {
             Products = new HashSet<Product>();
+            //this.Products = new List<Product>();
         }
 
         [Key]
@@ -29,8 +34,10 @@ namespace tareaSerializacioEnBd
         [Column(TypeName = "image")]
         [XmlAttribute("Picture")]
         public byte[] Picture { get; set; }
-
         [InverseProperty(nameof(Product.Category))]
+        [XmlIgnore]
+        [JsonIgnore]
+        [field:NonSerialized]
         public virtual ICollection<Product> Products { get; set; }
     }
 
