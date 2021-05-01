@@ -15,12 +15,15 @@ namespace tareaSerializacioEnBd
     [Index(nameof(ProductName), Name = "ProductName")]
     [Index(nameof(SupplierId), Name = "SupplierID")]
     [Index(nameof(SupplierId), Name = "SuppliersProducts")]
-    [Serializable]
+    [Serializable] //Importante indicar al serializador binario cual es la clase serializable
+    /// <summary>
+    /// Se encarga de almacenar en tipo Objeto las rows que tiene una tabla (Product) dentro de la base de datos  (Northwind)
+    /// </summary>
     public class Product
     {
         [Key]
         [Column("ProductID")]
-        [XmlAttribute("ProductId")]
+        [XmlAttribute("ProductId")] //Atributos para el archivo XML
         public long ProductId { get; set; }
         [Required]
         [Column(TypeName = "nvarchar (40)")]
@@ -55,9 +58,9 @@ namespace tareaSerializacioEnBd
 
         [ForeignKey(nameof(CategoryId))]
         [InverseProperty("Products")]
-        [XmlIgnore]
-        [JsonIgnore]
-        [field:NonSerialized]
+        [XmlIgnore] //Importante indicar que no serialize el apartado Products ya que es un ICollection FK en XML
+        [JsonIgnore] //Importante indicar que no serialize el apartado Products ya que es un ICollection FK en JSON
+        [field:NonSerialized] //Importante indicar que no serialize el apartado Products ya que es un ICollection FK en Binary
 
         public virtual Category Category { get; set; }
     }

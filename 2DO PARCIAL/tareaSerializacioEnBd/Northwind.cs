@@ -3,6 +3,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 namespace tareaSerializacioEnBd
 {
+    /// <summary>
+    /// Se encarga de realizar la conexion a la base de datos
+    /// </summary>
     public class Northwind : DbContext
     {
         public Northwind()

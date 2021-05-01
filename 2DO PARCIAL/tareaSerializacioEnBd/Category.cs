@@ -11,18 +11,20 @@ namespace tareaSerializacioEnBd
 {
     
     [Index(nameof(CategoryName), Name = "CategoryName")]
-    [Serializable]
+    [Serializable] //Importante indicar al serializador binario cual es la clase serializable
+    /// <summary>
+    /// /// Se encarga de almacenar en tipo Objeto las rows que tiene una tabla (Category) dentro de la base de datos  (Northwind)
+    /// </summary>
     public class Category
     {
         public Category()
         {
             Products = new HashSet<Product>();
-            //this.Products = new List<Product>();
         }
 
         [Key]
         [Column("CategoryID")]
-        [XmlAttribute("CategoryID")]
+        [XmlAttribute("CategoryID")] //Atributos para el archivo XML
         public long CategoryId { get; set; }
         [Required]
         [Column(TypeName = "nvarchar (15)")]
@@ -35,9 +37,9 @@ namespace tareaSerializacioEnBd
         [XmlAttribute("Picture")]
         public byte[] Picture { get; set; }
         [InverseProperty(nameof(Product.Category))]
-        [XmlIgnore]
-        [JsonIgnore]
-        [field:NonSerialized]
+        [XmlIgnore] //Importante indicar que no serialize el apartado Products ya que es un ICollection FK en XML
+        [JsonIgnore] //Importante indicar que no serialize el apartado Products ya que es un ICollection FK en JSON
+        [field:NonSerialized] //Importante indicar que no serialize el apartado Products ya que es un ICollection FK en Binary
         public virtual ICollection<Product> Products { get; set; }
     }
 
