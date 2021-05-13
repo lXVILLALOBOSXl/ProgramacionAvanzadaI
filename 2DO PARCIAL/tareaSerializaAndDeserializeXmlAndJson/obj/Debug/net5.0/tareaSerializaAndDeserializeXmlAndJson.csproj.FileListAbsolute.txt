@@ -13,3 +13,19 @@
 /Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/tareaSerializaAndDeserializeXmlAndJson/obj/Debug/net5.0/ref/tareaSerializaAndDeserializeXmlAndJson.dll
 /Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/tareaSerializaAndDeserializeXmlAndJson/obj/Debug/net5.0/tareaSerializaAndDeserializeXmlAndJson.pdb
 /Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/tareaSerializaAndDeserializeXmlAndJson/obj/Debug/net5.0/tareaSerializaAndDeserializeXmlAndJson.genruntimeconfig.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\tareaSerializaAndDeserializeXmlAndJson\obj\Debug\net5.0\tareaSerializaAndDeserializeXmlAndJson.csprojAssemblyReference.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\tareaSerializaAndDeserializeXmlAndJson\obj\Debug\net5.0\tareaSerializaAndDeserializeXmlAndJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\tareaSerializaAndDeserializeXmlAndJson\obj\Debug\net5.0\tareaSerializaAndDeserializeXmlAndJson.AssemblyInfoInputs.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\tareaSerializaAndDeserializeXmlAndJson\obj\Debug\net5.0\tareaSerializaAndDeserializeXmlAndJson.AssemblyInfo.cs
+C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\tareaSerializaAndDeserializeXmlAndJson\obj\Debug\net5.0\tareaSerializaAndDeserializeXmlAndJson.csproj.CoreCompileInputs.cache
+C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\tareaSerializaAndDeserializeXmlAndJson\obj\Debug\net5.0\tareaSerializaAndDeserializeXmlAndJson.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\tareaSerializaAndDeserializeXmlAndJson\obj\Debug\net5.0\ref\tareaSerializaAndDeserializeXmlAndJson.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\tareaSerializaAndDeserializeXmlAndJson\obj\Debug\net5.0\tareaSerializaAndDeserializeXmlAndJson.pdb
+C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\tareaSerializaAndDeserializeXmlAndJson\bin\Debug\net5.0\tareaSerializaAndDeserializeXmlAndJson.exe
+C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\tareaSerializaAndDeserializeXmlAndJson\bin\Debug\net5.0\tareaSerializaAndDeserializeXmlAndJson.deps.json
+C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\tareaSerializaAndDeserializeXmlAndJson\bin\Debug\net5.0\tareaSerializaAndDeserializeXmlAndJson.runtimeconfig.json
+C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\tareaSerializaAndDeserializeXmlAndJson\bin\Debug\net5.0\tareaSerializaAndDeserializeXmlAndJson.runtimeconfig.dev.json
+C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\tareaSerializaAndDeserializeXmlAndJson\bin\Debug\net5.0\tareaSerializaAndDeserializeXmlAndJson.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\tareaSerializaAndDeserializeXmlAndJson\bin\Debug\net5.0\ref\tareaSerializaAndDeserializeXmlAndJson.dll
+C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\tareaSerializaAndDeserializeXmlAndJson\bin\Debug\net5.0\tareaSerializaAndDeserializeXmlAndJson.pdb
+C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\tareaSerializaAndDeserializeXmlAndJson\obj\Debug\net5.0\tareaSerializaAndDeserializeXmlAndJson.genruntimeconfig.cache

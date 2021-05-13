@@ -8,24 +8,31 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/luisvillalobos/.nuget/packages/": {}
+    "C:\\Users\\Luis Villalobos\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/tareaSerializaAndDeserializeXmlAndJson/tareaSerializaAndDeserializeXmlAndJson.csproj",
+      "projectUniqueName": "C:\\Users\\Luis Villalobos\\Desktop\\7MO semestre\\ProgramacionAvanzadaI\\2DO PARCIAL\\tareaSerializaAndDeserializeXmlAndJson\\tareaSerializaAndDeserializeXmlAndJson.csproj",
       "projectName": "tareaSerializaAndDeserializeXmlAndJson",
-      "projectPath": "/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/tareaSerializaAndDeserializeXmlAndJson/tareaSerializaAndDeserializeXmlAndJson.csproj",
-      "packagesPath": "/Users/luisvillalobos/.nuget/packages/",
-      "outputPath": "/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/tareaSerializaAndDeserializeXmlAndJson/obj/",
+      "projectPath": "C:\\Users\\Luis Villalobos\\Desktop\\7MO semestre\\ProgramacionAvanzadaI\\2DO PARCIAL\\tareaSerializaAndDeserializeXmlAndJson\\tareaSerializaAndDeserializeXmlAndJson.csproj",
+      "packagesPath": "C:\\Users\\Luis Villalobos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Luis Villalobos\\Desktop\\7MO semestre\\ProgramacionAvanzadaI\\2DO PARCIAL\\tareaSerializaAndDeserializeXmlAndJson\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/luisvillalobos/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Luis Villalobos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }
