@@ -1,16 +1,31 @@
-C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\examen2doParcial\bin\Debug\net5.0\examen2doParcial.exe
-C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\examen2doParcial\bin\Debug\net5.0\examen2doParcial.deps.json
-C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\examen2doParcial\bin\Debug\net5.0\examen2doParcial.runtimeconfig.json
-C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\examen2doParcial\bin\Debug\net5.0\examen2doParcial.runtimeconfig.dev.json
-C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\examen2doParcial\bin\Debug\net5.0\examen2doParcial.dll
-C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\examen2doParcial\bin\Debug\net5.0\ref\examen2doParcial.dll
-C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\examen2doParcial\bin\Debug\net5.0\examen2doParcial.pdb
-C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\examen2doParcial\obj\Debug\net5.0\examen2doParcial.csprojAssemblyReference.cache
-C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\examen2doParcial\obj\Debug\net5.0\examen2doParcial.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\examen2doParcial\obj\Debug\net5.0\examen2doParcial.AssemblyInfoInputs.cache
-C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\examen2doParcial\obj\Debug\net5.0\examen2doParcial.AssemblyInfo.cs
-C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\examen2doParcial\obj\Debug\net5.0\examen2doParcial.csproj.CoreCompileInputs.cache
-C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\examen2doParcial\obj\Debug\net5.0\examen2doParcial.dll
-C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\examen2doParcial\obj\Debug\net5.0\ref\examen2doParcial.dll
-C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\examen2doParcial\obj\Debug\net5.0\examen2doParcial.pdb
-C:\Users\Luis Villalobos\Desktop\7MO semestre\ProgramacionAvanzadaI\2DO PARCIAL\examen2doParcial\obj\Debug\net5.0\examen2doParcial.genruntimeconfig.cache
+C:/Users/Luis Villalobos/Desktop/7MO semestre/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/bin/Debug/net5.0/examen2doParcial.exe
+C:/Users/Luis Villalobos/Desktop/7MO semestre/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/bin/Debug/net5.0/examen2doParcial.deps.json
+C:/Users/Luis Villalobos/Desktop/7MO semestre/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/bin/Debug/net5.0/examen2doParcial.runtimeconfig.json
+C:/Users/Luis Villalobos/Desktop/7MO semestre/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/bin/Debug/net5.0/examen2doParcial.runtimeconfig.dev.json
+C:/Users/Luis Villalobos/Desktop/7MO semestre/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/bin/Debug/net5.0/examen2doParcial.dll
+C:/Users/Luis Villalobos/Desktop/7MO semestre/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/bin/Debug/net5.0/ref/examen2doParcial.dll
+C:/Users/Luis Villalobos/Desktop/7MO semestre/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/bin/Debug/net5.0/examen2doParcial.pdb
+C:/Users/Luis Villalobos/Desktop/7MO semestre/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/obj/Debug/net5.0/examen2doParcial.csprojAssemblyReference.cache
+C:/Users/Luis Villalobos/Desktop/7MO semestre/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/obj/Debug/net5.0/examen2doParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Luis Villalobos/Desktop/7MO semestre/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/obj/Debug/net5.0/examen2doParcial.AssemblyInfoInputs.cache
+C:/Users/Luis Villalobos/Desktop/7MO semestre/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/obj/Debug/net5.0/examen2doParcial.AssemblyInfo.cs
+C:/Users/Luis Villalobos/Desktop/7MO semestre/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/obj/Debug/net5.0/examen2doParcial.csproj.CoreCompileInputs.cache
+C:/Users/Luis Villalobos/Desktop/7MO semestre/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/obj/Debug/net5.0/examen2doParcial.dll
+C:/Users/Luis Villalobos/Desktop/7MO semestre/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/obj/Debug/net5.0/ref/examen2doParcial.dll
+C:/Users/Luis Villalobos/Desktop/7MO semestre/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/obj/Debug/net5.0/examen2doParcial.pdb
+C:/Users/Luis Villalobos/Desktop/7MO semestre/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/obj/Debug/net5.0/examen2doParcial.genruntimeconfig.cache
+/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/bin/Debug/net5.0/examen2doParcial.deps.json
+/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/bin/Debug/net5.0/examen2doParcial.runtimeconfig.json
+/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/bin/Debug/net5.0/examen2doParcial.runtimeconfig.dev.json
+/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/bin/Debug/net5.0/examen2doParcial.dll
+/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/bin/Debug/net5.0/ref/examen2doParcial.dll
+/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/bin/Debug/net5.0/examen2doParcial.pdb
+/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/obj/Debug/net5.0/examen2doParcial.csprojAssemblyReference.cache
+/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/obj/Debug/net5.0/examen2doParcial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/obj/Debug/net5.0/examen2doParcial.AssemblyInfoInputs.cache
+/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/obj/Debug/net5.0/examen2doParcial.AssemblyInfo.cs
+/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/obj/Debug/net5.0/examen2doParcial.csproj.CoreCompileInputs.cache
+/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/obj/Debug/net5.0/examen2doParcial.dll
+/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/obj/Debug/net5.0/ref/examen2doParcial.dll
+/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/obj/Debug/net5.0/examen2doParcial.pdb
+/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/obj/Debug/net5.0/examen2doParcial.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/luisvillalobos/Documents/abecedario/bin/Debug/net5.0/abecedario.deps.json
+/Users/luisvillalobos/Documents/abecedario/bin/Debug/net5.0/abecedario.runtimeconfig.json
+/Users/luisvillalobos/Documents/abecedario/bin/Debug/net5.0/abecedario.runtimeconfig.dev.json
+/Users/luisvillalobos/Documents/abecedario/bin/Debug/net5.0/abecedario.dll
+/Users/luisvillalobos/Documents/abecedario/bin/Debug/net5.0/ref/abecedario.dll
+/Users/luisvillalobos/Documents/abecedario/bin/Debug/net5.0/abecedario.pdb
+/Users/luisvillalobos/Documents/abecedario/obj/Debug/net5.0/abecedario.csprojAssemblyReference.cache
+/Users/luisvillalobos/Documents/abecedario/obj/Debug/net5.0/abecedario.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisvillalobos/Documents/abecedario/obj/Debug/net5.0/abecedario.AssemblyInfoInputs.cache
+/Users/luisvillalobos/Documents/abecedario/obj/Debug/net5.0/abecedario.AssemblyInfo.cs
+/Users/luisvillalobos/Documents/abecedario/obj/Debug/net5.0/abecedario.csproj.CoreCompileInputs.cache
+/Users/luisvillalobos/Documents/abecedario/obj/Debug/net5.0/abecedario.dll
+/Users/luisvillalobos/Documents/abecedario/obj/Debug/net5.0/ref/abecedario.dll
+/Users/luisvillalobos/Documents/abecedario/obj/Debug/net5.0/abecedario.pdb
+/Users/luisvillalobos/Documents/abecedario/obj/Debug/net5.0/abecedario.genruntimeconfig.cache

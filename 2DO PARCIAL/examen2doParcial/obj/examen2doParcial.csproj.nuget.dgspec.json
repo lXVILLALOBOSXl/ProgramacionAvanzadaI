@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luis Villalobos\\Desktop\\7MO semestre\\ProgramacionAvanzadaI\\2DO PARCIAL\\examen2doParcial\\examen2doParcial.csproj": {}
+    "/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/examen2doParcial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luis Villalobos\\Desktop\\7MO semestre\\ProgramacionAvanzadaI\\2DO PARCIAL\\examen2doParcial\\examen2doParcial.csproj": {
+    "/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/examen2doParcial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis Villalobos\\Desktop\\7MO semestre\\ProgramacionAvanzadaI\\2DO PARCIAL\\examen2doParcial\\examen2doParcial.csproj",
+        "projectUniqueName": "/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/examen2doParcial.csproj",
         "projectName": "examen2doParcial",
-        "projectPath": "C:\\Users\\Luis Villalobos\\Desktop\\7MO semestre\\ProgramacionAvanzadaI\\2DO PARCIAL\\examen2doParcial\\examen2doParcial.csproj",
-        "packagesPath": "C:\\Users\\Luis Villalobos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis Villalobos\\Desktop\\7MO semestre\\ProgramacionAvanzadaI\\2DO PARCIAL\\examen2doParcial\\obj\\",
+        "projectPath": "/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/examen2doParcial.csproj",
+        "packagesPath": "/Users/luisvillalobos/.nuget/packages/",
+        "outputPath": "/Users/luisvillalobos/Documents/ProgramacionAvanzadaI/2DO PARCIAL/examen2doParcial/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Luis Villalobos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/luisvillalobos/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
